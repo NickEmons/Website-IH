@@ -1,0 +1,3 @@
+student name: Nick Emons	
+student number: 654963
+student class: HAINF1SD
